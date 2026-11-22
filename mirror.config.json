@@ -6,6 +6,8 @@
   "post_install": [
     "https://norocoral.github.io/y1/inupdater/ftu/index.html"
   ],
+  "post_install2": [],
+  "icon": "https://norocoral.github.io/y1/inupdater/icn.png",
   "title_prefix": "Portable Flashing Package: ",
   "copy_original_assets": true,
   "source_readme": {
