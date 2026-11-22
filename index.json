@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-21T23:13:09Z",
+  "generated_at": "2026-11-22T11:15:16Z",
   "source_repo": "norocoral/nugget-y1",
   "source_fallback_repo": "",
   "mirror_repo": "y1-community/nugget-y1-mirror",
@@ -105,8 +105,8 @@
           "platform": "linux",
           "model": "Y1",
           "type": "Type A",
-          "size": 307452913,
-          "sha256": "53dccb9d2f30d254e29b8a4d9a83a35546dbc740a1ac945198607a4cdada3fdb",
+          "size": 366341391,
+          "sha256": "5fc904301c0d1b575f3f00a7dc508bd67f9200635d9de1eaab48a92d40cca3f1",
           "url": "https://github.com/y1-community/nugget-y1-mirror/releases/download/2.1.3/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/nugget-y1-mirror/releases/download/2.1.3/rom-linux.zip"
         },
@@ -116,8 +116,8 @@
           "platform": "linux-arm64",
           "model": "Y1",
           "type": "Type A",
-          "size": 132359634,
-          "sha256": "f7df41430e4b363922dbea74135d1411f1929fbfe8f3fdd4fdb74b8d9e29c437",
+          "size": 132430133,
+          "sha256": "81b6a633a90be178365438a96849100e1125dfd99769f83e7477ce67f51c399d",
           "url": "https://github.com/y1-community/nugget-y1-mirror/releases/download/2.1.3/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/nugget-y1-mirror/releases/download/2.1.3/rom-linux-arm64.zip"
         },
@@ -191,8 +191,8 @@
           "platform": "linux",
           "model": "Y1",
           "type": "Type A",
-          "size": 307452790,
-          "sha256": "d5ccc2b2953dc291414d08d5fe14989fa53a092cdff95a69ef5b9bdd30d32097",
+          "size": 366341268,
+          "sha256": "c7e87c8f5be99fb0422262075177b78a3c4763c62ac44929d3c281f1fb7899ac",
           "url": "https://github.com/y1-community/nugget-y1-mirror/releases/download/2.1.2/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/nugget-y1-mirror/releases/download/2.1.2/rom-linux.zip"
         },
@@ -202,8 +202,8 @@
           "platform": "linux-arm64",
           "model": "Y1",
           "type": "Type A",
-          "size": 132359511,
-          "sha256": "631640fb50cf28175553041778de1f78a3242334b60ea3acd9108f183411ba05",
+          "size": 132430010,
+          "sha256": "89bcea2690232213c3fd7f4bf51b20486b6941b98eba809bfb65e3d6d21adfa7",
           "url": "https://github.com/y1-community/nugget-y1-mirror/releases/download/2.1.2/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/nugget-y1-mirror/releases/download/2.1.2/rom-linux-arm64.zip"
         },
