@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-24T21:39:16Z",
+  "generated_at": "2026-11-27T22:02:52Z",
   "source_repo": "norocoral/nugget-y1",
   "source_fallback_repo": "",
   "mirror_repo": "y1-community/nugget-y1-mirror",
@@ -67,6 +67,93 @@
     }
   ],
   "releases": [
+    {
+      "tag": "2.1.5",
+      "title": "Portable Flashing Package: 2.1.5",
+      "source_title": "2.1.5",
+      "source_url": "https://github.com/norocoral/nugget-y1/releases/tag/2.1.5",
+      "source_fallback_url": "",
+      "published_at": "2026-11-27T20:52:15Z",
+      "prerelease": false,
+      "source_notes": "**Full Changelog**: https://github.com/norocoral/nugget-y1/compare/2.1.4.1...2.1.5\r\n\r\n1. Improve AAC support\r\n2. Improve Bluetooth stability\r\n3. Fix regression of debuginfo\r\n4. fine tune sleep/wake in rockbox\r\n5. Improve general battery life\r\n6. Support power off charging without powering on\r\n7. Automatic shutoff and deep sleep at 5%.",
+      "assets": [
+        {
+          "name": "rom-windows.zip",
+          "source_asset": "rom.zip",
+          "platform": "windows",
+          "model": "Y1",
+          "type": "Type A",
+          "size": 195968646,
+          "sha256": "f374d2c6beb86c46f1db6f7254cbb21cac76d084bf3ec99237392556faa1e8b3",
+          "url": "https://github.com/y1-community/nugget-y1-mirror/releases/download/2.1.5/rom-windows.zip",
+          "fallback_url": "https://github.com/ryan-specter/nugget-y1-mirror/releases/download/2.1.5/rom-windows.zip"
+        },
+        {
+          "name": "rom-windows-legacy.zip",
+          "source_asset": "rom.zip",
+          "platform": "windows-legacy",
+          "model": "Y1",
+          "type": "Type A",
+          "size": 81061734,
+          "sha256": "c56c54f78d7faa2ea9c67b561bf6858d115983516ece9bcd2306e97966ee438f",
+          "url": "https://github.com/y1-community/nugget-y1-mirror/releases/download/2.1.5/rom-windows-legacy.zip",
+          "fallback_url": "https://github.com/ryan-specter/nugget-y1-mirror/releases/download/2.1.5/rom-windows-legacy.zip"
+        },
+        {
+          "name": "rom-linux.zip",
+          "source_asset": "rom.zip",
+          "platform": "linux",
+          "model": "Y1",
+          "type": "Type A",
+          "size": 307905930,
+          "sha256": "f5d13619ea0e3a47cab5ed2fa0a3bb67df1af1c29d6304e7a6ec78b522678e62",
+          "url": "https://github.com/y1-community/nugget-y1-mirror/releases/download/2.1.5/rom-linux.zip",
+          "fallback_url": "https://github.com/ryan-specter/nugget-y1-mirror/releases/download/2.1.5/rom-linux.zip"
+        },
+        {
+          "name": "rom-linux-arm64.zip",
+          "source_asset": "rom.zip",
+          "platform": "linux-arm64",
+          "model": "Y1",
+          "type": "Type A",
+          "size": 132809000,
+          "sha256": "37b49bd8a1079171a55ec7b7da97ac89c2dbb18fcfb0613548170cb2b3fa5ccb",
+          "url": "https://github.com/y1-community/nugget-y1-mirror/releases/download/2.1.5/rom-linux-arm64.zip",
+          "fallback_url": "https://github.com/ryan-specter/nugget-y1-mirror/releases/download/2.1.5/rom-linux-arm64.zip"
+        },
+        {
+          "name": "rom-linux-legacy.zip",
+          "source_asset": "rom.zip",
+          "platform": "linux-legacy",
+          "model": "Y1",
+          "type": "Type A",
+          "size": 79476065,
+          "sha256": "8fe2a94fc86978d034920cafa2a1b71414af4b666a91f9089c66e26e55490dfa",
+          "url": "https://github.com/y1-community/nugget-y1-mirror/releases/download/2.1.5/rom-linux-legacy.zip",
+          "fallback_url": "https://github.com/ryan-specter/nugget-y1-mirror/releases/download/2.1.5/rom-linux-legacy.zip"
+        },
+        {
+          "name": "rom-macos.zip",
+          "source_asset": "rom.zip",
+          "platform": "macos",
+          "model": "Y1",
+          "type": "Type A",
+          "size": 115478731,
+          "sha256": "f0df6a3294a75c92a3864d0cf2ad541e17a780c442e9b1a6f1d961b56dd9fa44",
+          "url": "https://github.com/y1-community/nugget-y1-mirror/releases/download/2.1.5/rom-macos.zip",
+          "fallback_url": "https://github.com/ryan-specter/nugget-y1-mirror/releases/download/2.1.5/rom-macos.zip"
+        }
+      ],
+      "original_assets": [
+        "boot_nugget.img",
+        "liby1-sdk.zip",
+        "logo.bin",
+        "rockbox_sdcard.zip",
+        "rom.zip",
+        "sha256sums.txt"
+      ],
+      "stats_url": "https://github.com/y1-community/nugget-y1-mirror/releases/download/2.1.5/stats.txt"
+    },
     {
       "tag": "2.1.4.1",
       "title": "Portable Flashing Package: 2.1.4.1",
